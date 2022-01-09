@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinnie Dantas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinniedantas&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 A Full Stack Software Developer. An avid student learning new things daily.
+- 🔥 A Full Stack Software Developer. Learning new things daily.
 
 - 🔭 I’m currently working at [Avanade](https://github.com/Avanade)
 

@@ -4,7 +4,7 @@
 
 - 🔥 A Full Stack Software Developer. Learning new things daily.
 
-- 🔭 I’m currently working at [Avanade](https://github.com/Avanade)
+
 
 
 <br><br>

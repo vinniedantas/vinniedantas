@@ -1,4 +1,4 @@
-<img align="right" height="520em" src="https://raw.githubusercontent.com/gist/vinniedantas/ad3722739242cf74dd2b26b12028cbcb/raw/8d45f5e541cde9614de4b92278c4da89adc2217a/githubcard.svg"/>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Vinnie Dantas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinniedantas&color=yellow" alt="Profile views" /> </p>
 
